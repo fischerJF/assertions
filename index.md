@@ -6,5 +6,5 @@
 |P4 | Binary search tree | For every element that belongs to the binary search tree the child on the left must be smaller than his father, and the son on the right must be bigger than your father|
 |P5 | Number of children of a node |For every element belonging to the binary search tree, you can have only one left a direct child and one right direct child|
 |P6 | Tree balancing | For every balanced tree, the height of the left node minus the height of the right node must be less than or equal to one unit
-|P7 | Tree height & For every binary search tree, the total height must be less than $1.44* log(n+2)-1.328$|
+|P7 | Tree height | For every binary search tree, the total height must be less than $1.44* log(n+2)-1.328$|
 
