@@ -10,5 +10,5 @@
 
 
 
-![image](https://github.com/fischerJF/assertions/assertions.JPG)
+![image](assertions.JPG)
 
