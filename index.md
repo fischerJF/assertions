@@ -8,3 +8,7 @@
 |P6 | Tree balancing | For every balanced tree, the height of the left node minus the height of the right node must be less than or equal to one unit
 |P7 | Tree height | For every binary search tree, the total height must be less than $1.44* log(n+2)-1.328$|
 
+
+
+![image](https://github.com/fischerJF/assertions/blob/master/assertions.JPG)
+
