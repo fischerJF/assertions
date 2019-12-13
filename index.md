@@ -1,4 +1,5 @@
 |ID|Property|Description|
+|---|-------|-----------|
 |P1 | Tree without elements | If the number of elements in a tree is zero then the root should be null|
 |P2 | Tree with only one element | If the root is non-null and the root height is zero then the left and right children must be null|
 |P3 | Tree with more than one element | If the root is non-null and the root height is greater than or equal to one then the left, right, or both branches should be different from null|
